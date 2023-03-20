@@ -3,6 +3,8 @@ data.csv
 data_description.csv
 df_model.pkl
 df_description.pkl
+FPA_FOD_20170508.sqlite
+datasets/
 
 # Git LFS
 *.wav filter=lfs diff=lfs merge=lfs -text
