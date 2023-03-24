@@ -1,6 +1,6 @@
 # Predicting Cause of Wildfires in California
 ###  DSI Group #4
-##### Contributions by: Carl, Mary, Alex, Krishna, and Ryan Virgin
+##### Contributions by: Carl, Mary, Alex, Krishna, and Ryan
 
 ### Problem Statement
 
