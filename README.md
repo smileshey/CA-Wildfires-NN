@@ -18,6 +18,11 @@ In this project, we have ensembled multiple datasets to enhance our analysis. Ou
 
 ### Conclusion
 
+In conclusion, wildfires are a global problem that can cause severe damage to the environment, economy, and human lives. This project aimed to develop a predictive model that accurately identifies the cause of wildfires in California using various features such as soil composition, elevation data, and geocoordinates. By accurately predicting the cause of wildfires, we can identify effective prevention strategies, allocate resources efficiently, and improve the response time of fire organizations. The analysis utilized multiple data resources, resulting in a Random Forest model that accurately classifies wildfire causes with a 71 % accuracy rate. Further improvements to the model can be made by gathering additional data resources to identify other factors that contribute to wildfire causes. Overall, this analysis provides valuable insights into the factors that contribute to wildfires in California and offers a promising model to assist in managing and preventing these devastating events.
+
+It is important to note that while the developed model offers promising results, it is not perfect and can be further improved. Additional data resources such as distance to major cities, socioeconomic data, and weather data could be added to identify other factors that contribute to wildfire causes, such as human activity or natural phenomena. With further refinements, this model can assist public officials and first responders in developing more effective strategies to manage and prevent wildfires, ultimately reducing the impact of these devastating events.
+
+Another aspect that could improve the model is to further define the "Miscellaneous" cause description in the dataset. This would enable the identification of additional trends and patterns in wildfire causes that are currently unaccounted for. By providing more detailed and specific descriptions of these causes, the model can better distinguish and accurately classify the causes of wildfires. This would ultimately lead to better prevention strategies and more efficient allocation of resources to manage wildfires.
 
 ---
 
